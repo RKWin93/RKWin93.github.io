@@ -18,12 +18,13 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am currently a Doctor of Engineering candidate supervised by **Prof. Jiming Chen** and **Prof. Shibo He** at Zhejiang University, China. 
-# I received my D. Eng. degree at Zhejiang University (2023) under the supervision of Prof. Meiqin Liu and Prof. Ronghao Zheng. 
-I was also a visiting Ph.D. student with the Robotics Institute, University of Technology Sydney (UTS) supervised by Prof. Shoudong Huang and Dr. Liang Zhao.
+I received my Master of Engineering degree with the College of Electrical Engineering and Automation, Fuzhou University supervised by Prof. Zhezhuang Xu.
 
-Rongkai Wang dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+My research interests include active SLAM, autonomous exploration, informative path planning, and robot learning in robotics. My current research projects mainly focus on learning-based robot exploration in hazardous and complex environments using ground robots. Welcome to reach out via email: garryhsu0901@gmail.com(Permanent)/xuyang94@zju.edu.cn (Academic).
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes Industrial Internet of Things, Intelligent Production Scheduling, and Machine Learning applications in Intelligent Manufacturing field (e.g., Reinforcement Learning and Large Language Models).
+
+neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
