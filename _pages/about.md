@@ -78,7 +78,7 @@ Oct 8, 2023	I join ZJU NeSC Group as a Postdoc Research Fellow (Advisor: Prof. J
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IoTJ 2024</div><img src='images/fig/framework.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IoTJ 2024</div><img src='images/fig/fig-net-arch-new2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
  [End-to-end Multi-target Flexible Job Shop Scheduling with Deep Reinforcement Learning](https://ieeexplore.ieee.org/document/10734312) \\
@@ -89,7 +89,7 @@ Oct 8, 2023	I join ZJU NeSC Group as a Postdoc Research Fellow (Advisor: Prof. J
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JSA 2022</div><img src='images/fig/framework.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JSA 2022</div><img src='images/fig/fig_archi.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [An Interoperable and Flat Industrial Internet of Things Architecture for Low Latency Data Collection in Manufacturing Systems](https://www.sciencedirect.com/science/article/abs/pii/S1383762122001564) \\
@@ -100,7 +100,7 @@ Oct 8, 2023	I join ZJU NeSC Group as a Postdoc Research Fellow (Advisor: Prof. J
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICITES 2020</div><img src='images/fig/framework.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICITES 2020</div><img src='images/fig/fig-flowchart.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Leveraging Relational Database for Fast Construction of OPC UA Information Model](https://ieeexplore.ieee.org/document/9637064) \\
