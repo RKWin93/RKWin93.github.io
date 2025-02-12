@@ -65,15 +65,6 @@ Oct 8, 2023	I join ZJU NeSC Group as a Postdoc Research Fellow (Advisor: Prof. J
 <!-- 怎么直接显示出abs？有时间再搞吧 -->
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2019</div><img src='images/fs.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[FastSpeech: Fast, Robust and Controllable Text to Speech](https://papers.nips.cc/paper/8580-fastspeech-fast-robust-and-controllable-text-to-speech.pdf) \\
-**Yi Ren**, Yangjun Ruan, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, Tie-Yan Liu
-[**Project**](https://speechresearch.github.io/fastspeech/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
-
-
-
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JAS 2024</div><img src='images/fig/framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
