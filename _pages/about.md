@@ -81,8 +81,13 @@ Oct 8, 2023	I join ZJU NeSC Group as a Postdoc Research Fellow (Advisor: Prof. J
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.03* Outstanding Graduate Student of Zhejiang University.
+- *2023.12* Outstanding Practical Achievement of Postgraduate Students in Zhejiang Province / First Prize in Zhejiang University.
+- *2021.10* IEEE ICITES Best Paper Award.
+- *2019.03* Outstanding Thesis/Graduate Student of Fuzhou University.
+- *2018.11* Chinese National Scholarship for M.S. Students (2%).
+- *2016.06* Outstanding Graduate Student of Hangzhou Dianzi University.
+- *2013.12* Second Prize in Zhejiang Province University Physics Innovation Competition.
 
 # 📚 Academic services
 - Membership: IEEE, CAA.
