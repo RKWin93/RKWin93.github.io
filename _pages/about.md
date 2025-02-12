@@ -22,9 +22,9 @@ I received my Master of Engineering degree with the College of Electrical Engine
 
 My research interests cover Industrial Internet of Things (e.g., OPC UA), Intelligent Production Scheduling, and Artificial Intelligence applications in the industrial manufacturing field (e.g., Reinforcement Learning and Large Language Models).
 My current research projects mainly focus on LLM/DRL-based data collection, resource optimization, and production scheduling within multi-objective, dynamic interference, and complex (i.e., large-scale and distributed collaboration) industrial discrete manufacturing environments.
-Welcome to reach out via email: **rkwang.cn@gmail.com**(Permanent)/**rk_wang@zju.edu.cn**(Academic).
 
-My google scholar is <a href='https://scholar.google.com/citations&user=l-zF-W0AAAAJ'><img src="https://img.shields.io/endpoint?url=https://gs-badge.deta.dev/scholar?user=l-zF-W0AAAAJ&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+Welcome to reach out via email: **rkwang.cn@gmail.com**(Permanent)/**rk_wang@zju.edu.cn**(Academic).
+My google scholar is <a href='https://scholar.google.com.hk/citations?hl=zh-CN&user=l-zF-W0AAAAJ'><img src="https://img.shields.io/endpoint?url=https://gs-badge.deta.dev/scholar?user=l-zF-W0AAAAJ&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
  -->
