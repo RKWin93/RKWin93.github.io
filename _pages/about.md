@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/505b7319-af68-4e69-a5e9-41769c04abe1)---
 permalink: /
 title: ""
 excerpt: ""
@@ -65,19 +65,25 @@ Oct 8, 2023	I join ZJU NeSC Group as a Postdoc Research Fellow (Advisor: Prof. J
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JAS 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JAS 2024</div><img src='images/fig/framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Text2UA: Automatic OPC UA Information Modeling from Textual Data with Large Language Model]() \\
+<u>Rongkai Wang</u>, Shibo He, Chaojie Gu, Jiming Chen
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Project**]() <strong><span class='show_paper_citations' data='l-zF-W0AAAAJ:UebtZRa9Y70C'></span></strong>
+- Accept! Coming soon. 
 </div>
 </div>
 
+
+
+<!--
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+-->
+- [A Low-latency and Interoperable Industrial Internet of Things Architecture for Manufacturing Systems](https://ieeexplore.ieee.org/document/9442203), **Rongkai Wang**, Luyue Ji, Tong Ren, Shibo He, Zhiguo Shi, 2020 IEEE 18th International Conference on Industrial Informatics (**INDIN 2020**)
+- [Improving face-to-machine proximity estimation with neighbor relations in mobile industrial human machine interaction](https://ieeexplore.ieee.org/document/8390769), **Rongkai Wang**, Zhezhuang Xu, Renxu Xie, Xing Liu, [Shih-Hau Fang](https://scholar.google.com.hk/citations?hl=zh-CN&user=ZQ8a8DEAAAAJ&view_op=list_works), 2018 IEEE Industrial Cyber-Physical Systems (**ICPS 2018**).
+- [FaceME: Face-to-Machine Proximity Estimation Based on RSSI Difference for Mobile Industrial Human–Machine Interaction](https://ieeexplore.ieee.org/document/8345686), Zhezhuang Xu(Tutor), **Rongkai Wang**, Xi Yue, Ting Liu, [Cailian Chen](https://iwin.sjtu.edu.cn/Web/FacultyShow/35?name=Lily), [Shih-Hau Fang](https://scholar.google.com.hk/citations?hl=zh-CN&user=ZQ8a8DEAAAAJ&view_op=list_works), IEEE Transactions on Industrial Informatics (**TII-2018**).
 
 # 🎖 Honors and Awards
 - *2025.03* Outstanding Graduate Student of Zhejiang University.
