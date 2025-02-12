@@ -71,7 +71,7 @@ Oct 8, 2023	I join ZJU NeSC Group as a Postdoc Research Fellow (Advisor: Prof. J
 [Text2UA: Automatic OPC UA Information Modeling from Textual Data with Large Language Model]() \\
 <u>Rongkai Wang</u>, Shibo He, Chaojie Gu, Jiming Chen
 
-[**Project**](https://speechresearch.github.io/fastspeech/) \| <strong><span class='show_paper_citations' data='l-zF-W0AAAAJ:UebtZRa9Y70C'></span></strong>
+[**Project**]() \| <strong><span class='show_paper_citations' data='l-zF-W0AAAAJ:UebtZRa9Y70C'></span></strong>
 - Accept! Coming soon. 
 </div>
 </div>
