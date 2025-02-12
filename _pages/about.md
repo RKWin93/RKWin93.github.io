@@ -20,16 +20,29 @@ redirect_from:
 I am currently a Doctor of Engineering candidate supervised by **Prof. Jiming Chen** and **Prof. Shibo He** at Zhejiang University, China. 
 I received my Master of Engineering degree with the College of Electrical Engineering and Automation, Fuzhou University supervised by Prof. Zhezhuang Xu.
 
-My research interests include active SLAM, autonomous exploration, informative path planning, and robot learning in robotics. My current research projects mainly focus on learning-based robot exploration in hazardous and complex environments using ground robots. Welcome to reach out via email: garryhsu0901@gmail.com(Permanent)/xuyang94@zju.edu.cn (Academic).
+My research interests cover Industrial Internet of Things (e.g., OPC UA), Intelligent Production Scheduling, and Artificial Intelligence applications in the industrial manufacturing field (e.g., Reinforcement Learning and Large Language Models).
+My current research projects mainly focus on LLM/DRL-based data collection, resource optimization, and production scheduling within multi-objective, dynamic interference, and complex (i.e., large-scale and distributed collaboration) industrial discrete manufacturing environments.
+Welcome to reach out via email: rkwang.cn@gmail.com(Permanent)/rk_wang@zju.edu.cn (Academic).
 
-My research interest includes Industrial Internet of Things, Intelligent Production Scheduling, and Machine Learning applications in Intelligent Manufacturing field (e.g., Reinforcement Learning and Large Language Models).
+My google scholar is <a href='https://scholar.google.com.hk/citations?user=l-zF-W0AAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>)
 
-neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+<!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+ -->
 
+<!-- 这是注释内容，不会在渲染时显示 -->
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.03*: &nbsp;🎉🎉 I have passed my PhD defense at ZJU~!
+- *2024.12*: &nbsp;🎉 A paper about [**Text2UA: Automatic OPC UA Information Modeling from Textual Data with Large Language Model**]() is accepted by IEEE/CAA Journal of Automatica Sinica (JAS-2024)!
+- *2024.10*: &nbsp;🎉 A paper about [**End-to-end Multi-target Flexible Job Shop Scheduling with Deep Reinforcement Learning**](https://ieeexplore.ieee.org/document/10734312) is accepted by IEEE Internet of Things Journal (IoTJ-2024)!
+- *2022.02*: A paper about [**End-to-end Multi-target Flexible Job Shop Scheduling with Deep Reinforcement Learning**](https://ieeexplore.ieee.org/document/10734312) is accepted by RA-L! [code].
+
+<!-- Sep 10, 2024	Appointed as the Associate Editor of ICRA 2025~
+Jun 22, 2024	We organize an invited session in IEEE ICUS 2024, welcome new submissions~
+Jun 15, 2024	Appointed as the Associate Editor of IEEE RO-MAN 2024~
+Apr 15, 2024	Invited to co-chair an oral session (SLAM VI) at ICRA 2024!
+Oct 8, 2023	I join ZJU NeSC Group as a Postdoc Research Fellow (Advisor: Prof. Jiming Chen )~ -->
+
 
 # 📝 Publications 
 
