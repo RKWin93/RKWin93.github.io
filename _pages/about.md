@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Doctor of Engineering candidate supervised by **Prof. Jiming Chen** and **Prof. Shibo He** at Zhejiang University, China. 
+I am currently a Doctor of Engineering candidate supervised by [**Prof. Jiming Chen**](https://person.zju.edu.cn/jmchen) and [**Prof. Shibo He**](https://person.zju.edu.cn/shibohe/683161.html) at Zhejiang University, China. 
 I received my Master of Engineering degree with the College of Electrical Engineering and Automation, Fuzhou University supervised by Prof. Zhezhuang Xu.
 
 My research interests cover Industrial Internet of Things (e.g., OPC UA), Intelligent Production Scheduling, and Artificial Intelligence applications in the industrial manufacturing field (e.g., Reinforcement Learning and Large Language Models).
