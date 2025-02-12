@@ -47,8 +47,8 @@ Click the Action of the REPO website and enable the workflows by clicking "I und
 
 # 🔥 News
 - *2025.03*: &nbsp;🎉🎉 I have passed my PhD defense at ZJU~!
-- *2024.12*: &nbsp;🎉 A paper about [**Text2UA: Automatic OPC UA Information Modeling from Textual Data with Large Language Model**]() is accepted by IEEE/CAA Journal of Automatica Sinica (**JAS-2024**)! [code](https://github.com/RKWin93/Text2UA).
-- *2024.10*: &nbsp;🎉 A paper about [**End-to-end Multi-target Flexible Job Shop Scheduling with Deep Reinforcement Learning**](https://ieeexplore.ieee.org/document/10734312) is accepted by IEEE Internet of Things Journal (**IoTJ-2024**)! [code](https://github.com/RKWin93/E2E-MAPPO-for-MT-FJSP).
+- *2024.12*: &nbsp;🎉 A paper about [**Text2UA: Automatic OPC UA Information Modeling from Textual Data with Large Language Model**]() is accepted by IEEE/CAA Journal of Automatica Sinica (**JAS-2024**)! \| [\[code\]](https://github.com/RKWin93/Text2UA).
+- *2024.10*: &nbsp;🎉 A paper about [**End-to-end Multi-target Flexible Job Shop Scheduling with Deep Reinforcement Learning**](https://ieeexplore.ieee.org/document/10734312) is accepted by IEEE Internet of Things Journal (**IoTJ-2024**)! \| [\[code\]](https://github.com/RKWin93/E2E-MAPPO-for-MT-FJSP).
 - *2022.12*: We finish the sub-project **Field-level IIoT Architecture and Interoperability Technologies for Smart Factories** of National Key R&D Program of China's Networked Collaborative Manufacturing and Smart Factory initiative! (Result: Excellent)
 - *2022.06*: A paper about [**An Interoperable and Flat Industrial Internet of Things Architecture for Low Latency Data Collection in Manufacturing Systems**](https://www.sciencedirect.com/science/article/abs/pii/S1383762122001564) is accepted by Journal of Systems Architecture (**JSA**).
 - *2020.07*: A paper about [**A Low-latency and Interoperable Industrial Internet of Things Architecture for Manufacturing Systems**](https://ieeexplore.ieee.org/document/9442203) is accepted by 2020 IEEE 18th International Conference on Industrial Informatics (**INDIN**).
@@ -73,7 +73,7 @@ Oct 8, 2023	I join ZJU NeSC Group as a Postdoc Research Fellow (Advisor: Prof. J
 [Text2UA: Automatic OPC UA Information Modeling from Textual Data with Large Language Model]() \\
 <u>Rongkai Wang</u>, Shibo He, Chaojie Gu, Jiming Chen
 
-[**Project**]() <strong><span class='show_paper_citations' data='l-zF-W0AAAAJ:UebtZRa9Y70C'></span></strong>
+[**Project**]() \| <strong><span class='show_paper_citations' data='l-zF-W0AAAAJ:UebtZRa9Y70C'></span></strong>
 - Accept! Coming soon. 
 </div>
 </div>
@@ -84,7 +84,7 @@ Oct 8, 2023	I join ZJU NeSC Group as a Postdoc Research Fellow (Advisor: Prof. J
  [End-to-end Multi-target Flexible Job Shop Scheduling with Deep Reinforcement Learning](https://ieeexplore.ieee.org/document/10734312) \\
 <u>Rongkai Wang</u>, Yiyang Jing, Chaojie Gu, Shibo He, Jiming Chen
 
-[**Project**](https://github.com/RKWin93/E2E-MAPPO-for-MT-FJSP) <strong><span class='show_paper_citations' data='l-zF-W0AAAAJ:Se3iqnhoufwC'></span></strong>
+[**Project**](https://github.com/RKWin93/E2E-MAPPO-for-MT-FJSP) \| <strong><span class='show_paper_citations' data='l-zF-W0AAAAJ:Se3iqnhoufwC'></span></strong>
 - Code is coming soon. 
 </div>
 </div>
@@ -95,30 +95,25 @@ Oct 8, 2023	I join ZJU NeSC Group as a Postdoc Research Fellow (Advisor: Prof. J
 [An Interoperable and Flat Industrial Internet of Things Architecture for Low Latency Data Collection in Manufacturing Systems](https://www.sciencedirect.com/science/article/abs/pii/S1383762122001564) \\
 <u>Rongkai Wang</u>, Chaojie Gu, Shibo He, Zhiguo Shi, Wenchao Meng
 
-[**Project**]() <strong><span class='show_paper_citations' data='l-zF-W0AAAAJ:zYLM7Y9cAGgC'></span></strong>
+[**Project**]() \| <strong><span class='show_paper_citations' data='l-zF-W0AAAAJ:zYLM7Y9cAGgC'></span></strong>
 - Corresponding to the National Key R&D Program of China's Networked Collaborative Manufacturing and Smart Factory initiative. 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICITES 2020</div><img src='images/fig/fig-flowchart.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICITES 2020</div><img src='images/fig/fig-flowchart.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Leveraging Relational Database for Fast Construction of OPC UA Information Model](https://ieeexplore.ieee.org/document/9637064) \\
 <u>Rongkai Wang</u>, Shibo He, Yang Liu, Chengwei Zhou, [Zhiguo Shi](https://person.zju.edu.cn/shizg/570480.html), Jiming Chen. 
 
-[**Project**]() <strong><span class='show_paper_citations' data='l-zF-W0AAAAJ:IjCSPb-OGe4C'></span></strong>
+[**Project**]() \| <strong><span class='show_paper_citations' data='l-zF-W0AAAAJ:IjCSPb-OGe4C'></span></strong>
 - Win the Best Paper Award. 
 </div>
 </div>
 
-
-
-<!--
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
--->
-- [A Low-latency and Interoperable Industrial Internet of Things Architecture for Manufacturing Systems](https://ieeexplore.ieee.org/document/9442203), **Rongkai Wang**, Luyue Ji, Tong Ren, Shibo He, Zhiguo Shi, 2020 IEEE 18th International Conference on Industrial Informatics (**INDIN 2020**) <strong><span class='show_paper_citations' data='l-zF-W0AAAAJ:2osOgNQ5qMEC'></span></strong>
-- [Improving face-to-machine proximity estimation with neighbor relations in mobile industrial human machine interaction](https://ieeexplore.ieee.org/document/8390769), **Rongkai Wang**, Zhezhuang Xu, Renxu Xie, Xing Liu, [Shih-Hau Fang](https://scholar.google.com.hk/citations?hl=zh-CN&user=ZQ8a8DEAAAAJ&view_op=list_works), 2018 IEEE Industrial Cyber-Physical Systems (**ICPS 2018**) <strong><span class='show_paper_citations' data='l-zF-W0AAAAJ:UeHWp8X0CEIC'></span></strong>
-- [FaceME: Face-to-Machine Proximity Estimation Based on RSSI Difference for Mobile Industrial Human–Machine Interaction](https://ieeexplore.ieee.org/document/8345686), Zhezhuang Xu(Tutor), **Rongkai Wang**, Xi Yue, Ting Liu, [Cailian Chen](https://iwin.sjtu.edu.cn/Web/FacultyShow/35?name=Lily), [Shih-Hau Fang](https://scholar.google.com.hk/citations?hl=zh-CN&user=ZQ8a8DEAAAAJ&view_op=list_works), IEEE Transactions on Industrial Informatics (**TII 2018**) <strong><span class='show_paper_citations' data='l-zF-W0AAAAJ:9yKSN-GCB0IC'></span></strong>
+- [A Low-latency and Interoperable Industrial Internet of Things Architecture for Manufacturing Systems](https://ieeexplore.ieee.org/document/9442203), **Rongkai Wang**, Luyue Ji, Tong Ren, Shibo He, Zhiguo Shi, 2020 IEEE 18th International Conference on Industrial Informatics (**INDIN 2020**) \| <strong><span class='show_paper_citations' data='l-zF-W0AAAAJ:2osOgNQ5qMEC'></span></strong>
+- [Improving face-to-machine proximity estimation with neighbor relations in mobile industrial human machine interaction](https://ieeexplore.ieee.org/document/8390769), **Rongkai Wang**, Zhezhuang Xu, Renxu Xie, Xing Liu, [Shih-Hau Fang](https://scholar.google.com.hk/citations?hl=zh-CN&user=ZQ8a8DEAAAAJ&view_op=list_works), 2018 IEEE Industrial Cyber-Physical Systems (**ICPS 2018**) \| <strong><span class='show_paper_citations' data='l-zF-W0AAAAJ:UeHWp8X0CEIC'></span></strong>
+- [FaceME: Face-to-Machine Proximity Estimation Based on RSSI Difference for Mobile Industrial Human–Machine Interaction](https://ieeexplore.ieee.org/document/8345686), Zhezhuang Xu(Tutor), **Rongkai Wang**, Xi Yue, Ting Liu, [Cailian Chen](https://iwin.sjtu.edu.cn/Web/FacultyShow/35?name=Lily), [Shih-Hau Fang](https://scholar.google.com.hk/citations?hl=zh-CN&user=ZQ8a8DEAAAAJ&view_op=list_works), IEEE Transactions on Industrial Informatics (**TII 2018**) \| <strong><span class='show_paper_citations' data='l-zF-W0AAAAJ:9yKSN-GCB0IC'></span></strong>
 
 # 🎖 Honors and Awards
 - *2025.03* Outstanding Graduate Student of Zhejiang University.
@@ -147,22 +142,21 @@ Conference Services: ICRA 2024, Session Co-Chair (SLAM); ICUS 2024, PC Member/In
 
 # 👋 Projects
 - **
--  
+
+- [1] Sub - project of the Key Special Project on Networked Collaborative Manufacturing and Smart Factories under the National Key R & D Program: "Research and Development of Key Field - level Industrial Internet of Things Devices for Smart Factories". Project No.: 2018YFB1702101. Topic: Field - level Industrial Internet of Things Architecture and Interconnection Technologies for Smart Factories. Duration: June 2019 - May 2022. Project concluded (Excellent). Student leader and main participant.
+- [2] Sub - project of the Key Special Project on International Scientific and Technological Innovation Cooperation between Governments under the National Key R & D Program. Project No.: SQ2018YFE011556. Topic: Key Technologies and Demonstration Applications of Industrial Internet of Things for Intelligent Production Lines. Duration: January 2020 - December 2022. Project concluded. Main participant.
+- [3] Joint Key Fund for the Integration of Informatization and Industrialization between the National Natural Science Foundation of China and Zhejiang Province. Project No.: U1909207. Topic: Theories and Methods of Distributed Autonomous Learning for Networked Intelligent Manufacturing. Duration: January 2020 - December 2023. Project concluded. Main participant.
+- [4] Major Common Key Technology Research Project of Pengcheng National Laboratory. Project No.: PCL2021A09. Topic: Research on Key Technologies of Industrial Cloud and Industrial Internet for Intelligent Manufacturing. Duration: June 2021 - June 2023. Project concluded. Main participant. 
 
 
-
-<!--
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
--->
 
 <!-- 这是注释内容，不会在渲染时显示 -->
 
-<!-- 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
--->
+- *2019.09 - 2021.12*, Doctoral intern at IoT Lab., [Alibaba - Zhejiang University Joint Research Center for Frontier Technologies (AZFT)](https://azft.alibaba.com/lab/?id=6), China. (Focus on OPC UA)
 
 
 
