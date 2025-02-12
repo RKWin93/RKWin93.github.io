@@ -106,6 +106,9 @@ Oct 8, 2023	I join ZJU NeSC Group as a Postdoc Research Fellow (Advisor: Prof. J
 [Leveraging Relational Database for Fast Construction of OPC UA Information Model](https://ieeexplore.ieee.org/document/9637064) \\
 <u>Rongkai Wang</u>, Shibo He, Yang Liu, Chengwei Zhou, [Zhiguo Shi](https://person.zju.edu.cn/shizg/570480.html), Jiming Chen. 
 
+<strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+
+
 [**Project**]() \| <strong><span class='show_paper_citations' data='l-zF-W0AAAAJ:IjCSPb-OGe4C'></span></strong>
 - Win the Best Paper Award. 
 </div>
