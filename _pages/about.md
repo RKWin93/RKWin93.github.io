@@ -62,10 +62,17 @@ Jun 15, 2024	Appointed as the Associate Editor of IEEE RO-MAN 2024~
 Apr 15, 2024	Invited to co-chair an oral session (SLAM VI) at ICRA 2024!
 Oct 8, 2023	I join ZJU NeSC Group as a Postdoc Research Fellow (Advisor: Prof. Jiming Chen )~ -->
 
-
+<!-- 怎么直接显示出abs？有时间再搞吧 -->
 # 📝 Publications 
 
-<!-- 怎么直接显示出abs？有时间再搞吧 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2019</div><img src='images/fs.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[FastSpeech: Fast, Robust and Controllable Text to Speech](https://papers.nips.cc/paper/8580-fastspeech-fast-robust-and-controllable-text-to-speech.pdf) \\
+**Yi Ren**, Yangjun Ruan, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, Tie-Yan Liu
+[**Project**](https://speechresearch.github.io/fastspeech/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JAS 2024</div><img src='images/fig/framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -73,7 +80,7 @@ Oct 8, 2023	I join ZJU NeSC Group as a Postdoc Research Fellow (Advisor: Prof. J
 [Text2UA: Automatic OPC UA Information Modeling from Textual Data with Large Language Model]() \\
 <u>Rongkai Wang</u>, Shibo He, Chaojie Gu, Jiming Chen
 
-[**Project**]() \| <strong><span class='show_paper_citations' data='l-zF-W0AAAAJ:UebtZRa9Y70C'></span></strong>
+[**Project**](https://speechresearch.github.io/fastspeech/) \| <strong><span class='show_paper_citations' data='l-zF-W0AAAAJ:UebtZRa9Y70C'></span></strong>
 - Accept! Coming soon. 
 </div>
 </div>
