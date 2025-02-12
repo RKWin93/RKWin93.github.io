@@ -84,13 +84,40 @@ Oct 8, 2023	I join ZJU NeSC Group as a Postdoc Research Fellow (Advisor: Prof. J
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 📚 Academic services
+- Membership: IEEE, CAA.
+- Journal Reviewer: IEEE Transactions on Industrial Informatics (TII) / IEEE Internet of Things Journal (IoTJ) / IEEE Open Journal of the Industrial Electronics Society /	IEEE Transactions on Vehicular Technology (TVT).
+- Conference Reviewer: International Conference on Computer Science and Application Engineering (CSAE).
 
+<!--
+Editorial Services: ICRA 2025, Associate Editor; RO-MAN 2024, Associate Editor.
+Conference Services: ICRA 2024, Session Co-Chair (SLAM); ICUS 2024, PC Member/Invited Session Chair.
+-->
+
+# 📖 Educations
+- *19.09 - 25.03 (D.Eng)*, College of Control Science and Engineering, Zhejiang University. I major in Electronic Information, supervised by [**Prof. Jiming Chen**](https://person.zju.edu.cn/jmchen), [**Prof. Shibo He**](https://person.zju.edu.cn/shibohe/683161.html), and [Asst.Prof. Chaojie Gu](https://person.zju.edu.cn/gucj).
+- *16.09 - 19.06 (M.S.)*, College of Electrical Engineering and Automation, Fuzhou University. I major in Control Theory and Control Engineering, supervised by [Prof. Zhezhuang Xu](https://dqxy.fzu.edu.cn/info/1010/3365.htm).
+- *12.09 - 16.06 (B.S.)*, College of Automation, Hangzhou Dianzi University. I major in Electrical Engineering and Automation (Rank: Top 10%).
+
+
+# 👋 Projects
+- **
+-  
+
+
+
+<!--
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+-->
 
+<!-- 这是注释内容，不会在渲染时显示 -->
+
+<!-- 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+-->
+
+
+
