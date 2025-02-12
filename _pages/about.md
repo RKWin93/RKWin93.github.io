@@ -55,7 +55,6 @@ Click the Action of the REPO website and enable the workflows by clicking "I und
 - *2020.07*: A paper about [**Leveraging Relational Database for Fast Construction of OPC UA Information Model**](https://ieeexplore.ieee.org/document/9637064) is accepted by 2021 International Conference on Intelligent Technology and Embedded Systems (ICITES). Won the **Best Paper Award**!
 - *2018.05*: A paper about [**Improving face-to-machine proximity estimation with neighbor relations in mobile industrial human machine interaction**](https://ieeexplore.ieee.org/document/8390769) is accepted by 2018 IEEE Industrial Cyber-Physical Systems (**ICPS**).
 - *2018.04*: A paper about [**FaceME: Face-to-Machine Proximity Estimation Based on RSSI Difference for Mobile Industrial Human–Machine Interaction**](https://ieeexplore.ieee.org/document/8345686) is accepted by IEEE Transactions on Industrial Informatics (**TII-2018**).
-- 
 
 <!-- Sep 10, 2024	Appointed as the Associate Editor of ICRA 2025~
 Jun 22, 2024	We organize an invited session in IEEE ICUS 2024, welcome new submissions~
@@ -66,7 +65,7 @@ Oct 8, 2023	I join ZJU NeSC Group as a Postdoc Research Fellow (Advisor: Prof. J
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JAS 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
