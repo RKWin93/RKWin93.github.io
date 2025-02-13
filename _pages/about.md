@@ -47,15 +47,6 @@ redirect_from:
 - *12.09 - 16.06 (B.S.)*, College of Automation, Hangzhou Dianzi University. I major in Electrical Engineering and Automation (Rank: Top 10%).
 
 
-# 👋 Projects
-- **
-
-- [1] Sub - project of the Key Special Project on Networked Collaborative Manufacturing and Smart Factories under the National Key R & D Program: "Research and Development of Key Field - level Industrial Internet of Things Devices for Smart Factories". Project No.: 2018YFB1702101. Topic: Field - level Industrial Internet of Things Architecture and Interconnection Technologies for Smart Factories. Duration: June 2019 - May 2022. Project concluded (Excellent). Student leader and main participant.
-- [2] Sub - project of the Key Special Project on International Scientific and Technological Innovation Cooperation between Governments under the National Key R & D Program. Project No.: SQ2018YFE011556. Topic: Key Technologies and Demonstration Applications of Industrial Internet of Things for Intelligent Production Lines. Duration: January 2020 - December 2022. Project concluded. Main participant.
-- [3] Joint Key Fund for the Integration of Informatization and Industrialization between the National Natural Science Foundation of China and Zhejiang Province. Project No.: U1909207. Topic: Theories and Methods of Distributed Autonomous Learning for Networked Intelligent Manufacturing. Duration: January 2020 - December 2023. Project concluded. Main participant.
-- [4] Major Common Key Technology Research Project of Pengcheng National Laboratory. Project No.: PCL2021A09. Topic: Research on Key Technologies of Industrial Cloud and Industrial Internet for Intelligent Manufacturing. Duration: June 2021 - June 2023. Project concluded. Main participant. 
-
-
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
