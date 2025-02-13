@@ -39,15 +39,7 @@ redirect_from:
 
 
 
-# 📚 Academic services
-- Membership: IEEE, CAA.
-- Journal Reviewer: IEEE Transactions on Industrial Informatics (TII) / IEEE Internet of Things Journal (IoTJ) / IEEE Open Journal of the Industrial Electronics Society (OJIES) /	IEEE Transactions on Vehicular Technology (TVT).
-- Conference Reviewer: International Conference on Computer Science and Application Engineering (CSAE).
 
-<!--
-Editorial Services: ICRA 2025, Associate Editor; RO-MAN 2024, Associate Editor.
-Conference Services: ICRA 2024, Session Co-Chair (SLAM); ICUS 2024, PC Member/Invited Session Chair.
--->
 
 # 📖 Educations
 - *19.09 - 25.03 (D.Eng)*, College of Control Science and Engineering, Zhejiang University. I major in Electronic Information, supervised by [**Prof. Jiming Chen**](https://person.zju.edu.cn/jmchen), [**Prof. Shibo He**](https://person.zju.edu.cn/shibohe/683161.html), and [Asst.Prof. Chaojie Gu](https://person.zju.edu.cn/gucj).
