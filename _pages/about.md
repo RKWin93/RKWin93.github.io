@@ -127,7 +127,7 @@ Oct 8, 2023	I join ZJU NeSC Group as a Postdoc Research Fellow (Advisor: Prof. J
 
 # 📚 Academic services
 - Membership: IEEE, CAA.
-- Journal Reviewer: IEEE Transactions on Industrial Informatics (TII) / IEEE Internet of Things Journal (IoTJ) / IEEE Open Journal of the Industrial Electronics Society /	IEEE Transactions on Vehicular Technology (TVT).
+- Journal Reviewer: IEEE Transactions on Industrial Informatics (TII) / IEEE Internet of Things Journal (IoTJ) / IEEE Open Journal of the Industrial Electronics Society (OJIES) /	IEEE Transactions on Vehicular Technology (TVT).
 - Conference Reviewer: International Conference on Computer Science and Application Engineering (CSAE).
 
 <!--
