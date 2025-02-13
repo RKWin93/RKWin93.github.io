@@ -22,11 +22,11 @@ redirect_from:
 
 {% include_relative include/pubs.md %}
 
-{% include_relative include/projects.md %}
+{% include_relative include/project.md %}
 
 {% include_relative include/acade.md %}
 
-{% include_relative include/honers.md %}
+{% include_relative include/honors.md %}
 
 {% include_relative include/others.md %}
 
