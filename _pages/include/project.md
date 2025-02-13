@@ -1,5 +1,5 @@
 # 👋 Projects
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022 National Key R&D Program of China</div><img src='images/fig/framework.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022 National Key R&D Program of China</div><img src='images/fig/iiotarchi.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Field-level Industrial Internet of Things Architecture and Interoperability Technologies for Smart Factories](https://www.seiee.sjtu.edu.cn/index_news/7251.html) \\
