@@ -7,7 +7,7 @@
         {% endif %}
         $.getJSON(gsDataBaseUrl + "google-scholar-stats/gs_data.json", function (data) {
             // var totalCitation = data['citedby']
-            // document.getElementById('total_cit').innerHTML = totalCitation;
+            // document.getElementById('total_cit').innerHTML = totalCitation;   注释掉这些才可以使用citation的，相当于读取分支google的里边的json文件，找到citation
             var citationEles = document.getElementsByClassName('show_paper_citations')
             Array.prototype.forEach.call(citationEles, element => {
                 var paperId = element.getAttribute('data')
