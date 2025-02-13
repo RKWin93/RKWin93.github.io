@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Rongkai Wang"
+title                    : "Rongkai Wang (王荣凯)"
 description              : "Group of Networked Sensing & Control (NesC), State Key Lab. of Industrial Control Technology, College of Control Science and Engineering, Zhejiang University "
 repository               : "RKWin93/RKWin93.github.io"
 google_scholar_stats_use_cdn : true
@@ -27,7 +27,7 @@ author:
   location         : "Hangzhou, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com.hk/citations?user=l-zF-W0AAAAJ&hl=zh-CN"
+  googlescholar    : "https://scholar.google.com/citations?user=l-zF-W0AAAAJ"
   email            : "rk_wang@zju.edu.com"
   researchgate     : "https://www.researchgate.net/profile/Rongkai-Wang?ev=prf_overview"
   uri              :
