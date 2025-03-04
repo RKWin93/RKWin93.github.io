@@ -4,10 +4,10 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JAS 2024</div><img src='images/fig/framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Text2UA: Automatic OPC UA Information Modeling from Textual Data with Large Language Model]() \\
+[Text2UA: Automatic OPC UA Information Modeling from Textual Data with Large Language Model](https://www.ieee-jas.net/en/article/doi/10.1109/JAS.2025.125114) \\
 <u>Rongkai Wang</u>, Shibo He, Chaojie Gu, Jiming Chen
 
-[**Project**]()  <strong><span class='show_paper_citations' data='l-zF-W0AAAAJ:UebtZRa9Y70C'></span></strong>
+[**Project**](https://github.com/RKWin93/Text2UA)  <strong><span class='show_paper_citations' data='l-zF-W0AAAAJ:UebtZRa9Y70C'></span></strong>
 - Accept! Coming soon. 
 </div>
 </div>
