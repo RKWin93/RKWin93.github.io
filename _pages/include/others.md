@@ -5,7 +5,7 @@
 
 
 # 💬 Invited Talks
-- *2025.xx*, coming soon \| [\[video\]](https://github.com/)
+- *2025.05.27*, Zhejiang Sci-Tech University, "Deep reinforcement learning for flexible job shop scheduling problem"\| [\[video\]](https://github.com/)
 
 <!-- 这是注释内容，不会在渲染时显示 -->
 
