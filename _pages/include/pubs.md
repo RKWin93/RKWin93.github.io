@@ -45,7 +45,7 @@ Zhezhuang Xu(Tutor), <u>Rongkai Wang</u>, Xi Yue, Ting Liu, [Cailian Chen](https
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICITES 2020</div><img src='images/fig/fig-flowchart.png' alt="sym" width="60%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICITES 2020</div><img src='images/fig/fig-flowchart.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Leveraging Relational Database for Fast Construction of OPC UA Information Model](https://ieeexplore.ieee.org/document/9637064) \\
