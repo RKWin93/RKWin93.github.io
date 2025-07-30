@@ -37,7 +37,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TII 2018</div><img src='images/fig/faceme.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[FaceME: Face-to-Machine Proximity Estimation Based on RSSI Difference for Mobile Industrial Human–Machine Interaction](https://ieeexplore.ieee.org/document/8345686) \\ 
+[FaceME: Face-to-Machine Proximity Estimation Based on RSSI Difference for Mobile Industrial Human–Machine Interaction](https://ieeexplore.ieee.org/document/8345686) \\
 Zhezhuang Xu(Tutor), <u>Rongkai Wang</u>, Xi Yue, Ting Liu, [Cailian Chen](https://iwin.sjtu.edu.cn/Web/FacultyShow/35?name=Lily), [Shih-Hau Fang](https://scholar.google.com.hk/citations?hl=zh-CN&user=ZQ8a8DEAAAAJ&view_op=list_works)
 
 [**Project**]()  <strong><span class='show_paper_citations' data='l-zF-W0AAAAJ:9yKSN-GCB0IC'></span></strong>
