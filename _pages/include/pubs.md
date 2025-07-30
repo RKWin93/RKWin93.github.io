@@ -34,6 +34,17 @@
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TII 2018</div><img src='images/fig/faceme.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[FaceME: Face-to-Machine Proximity Estimation Based on RSSI Difference for Mobile Industrial Human–Machine Interaction](https://ieeexplore.ieee.org/document/8345686) \\ 
+Zhezhuang Xu(Tutor), <u>Rongkai Wang</u>, Xi Yue, Ting Liu, [Cailian Chen](https://iwin.sjtu.edu.cn/Web/FacultyShow/35?name=Lily), [Shih-Hau Fang](https://scholar.google.com.hk/citations?hl=zh-CN&user=ZQ8a8DEAAAAJ&view_op=list_works)
+
+[**Project**]()  <strong><span class='show_paper_citations' data='l-zF-W0AAAAJ:9yKSN-GCB0IC'></span></strong>
+- Corresponding to the National Natural Science Foundation of China's Research on Mobile Access and Dynamic Routing Mechanism of Industrial Human-Machine Interaction Network Based on Wireless Sensor Network. 
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICITES 2020</div><img src='images/fig/fig-flowchart.png' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -41,11 +52,17 @@
 <u>Rongkai Wang</u>, Shibo He, Yang Liu, Chengwei Zhou, [Zhiguo Shi](https://person.zju.edu.cn/shizg/570480.html), Jiming Chen. 
 
 [**Project**]() <strong><span class='show_paper_citations' data='l-zF-W0AAAAJ:IjCSPb-OGe4C'></span></strong>
-- Win the Best Paper Award. 
+- Win the **Best Paper Award**. 
 </div>
 </div>
 
+
+
+
+
 - [A Low-latency and Interoperable Industrial Internet of Things Architecture for Manufacturing Systems](https://ieeexplore.ieee.org/document/9442203), **Rongkai Wang**, Luyue Ji, Tong Ren, Shibo He, Zhiguo Shi, 2020 IEEE 18th International Conference on Industrial Informatics (**INDIN 2020**)  <strong><span class='show_paper_citations' data='l-zF-W0AAAAJ:2osOgNQ5qMEC'></span></strong>
 - [Improving face-to-machine proximity estimation with neighbor relations in mobile industrial human machine interaction](https://ieeexplore.ieee.org/document/8390769), **Rongkai Wang**, Zhezhuang Xu, Renxu Xie, Xing Liu, [Shih-Hau Fang](https://scholar.google.com.hk/citations?hl=zh-CN&user=ZQ8a8DEAAAAJ&view_op=list_works), 2018 IEEE Industrial Cyber-Physical Systems (**ICPS 2018**)  <strong><span class='show_paper_citations' data='l-zF-W0AAAAJ:UeHWp8X0CEIC'></span></strong>
-- [FaceME: Face-to-Machine Proximity Estimation Based on RSSI Difference for Mobile Industrial Human–Machine Interaction](https://ieeexplore.ieee.org/document/8345686), Zhezhuang Xu(Tutor), **Rongkai Wang**, Xi Yue, Ting Liu, [Cailian Chen](https://iwin.sjtu.edu.cn/Web/FacultyShow/35?name=Lily), [Shih-Hau Fang](https://scholar.google.com.hk/citations?hl=zh-CN&user=ZQ8a8DEAAAAJ&view_op=list_works), IEEE Transactions on Industrial Informatics (**TII 2018**)  <strong><span class='show_paper_citations' data='l-zF-W0AAAAJ:9yKSN-GCB0IC'></span></strong>
+
+<!-- - [FaceME: Face-to-Machine Proximity Estimation Based on RSSI Difference for Mobile Industrial Human–Machine Interaction](https://ieeexplore.ieee.org/document/8345686), Zhezhuang Xu(Tutor), **Rongkai Wang**, Xi Yue, Ting Liu, [Cailian Chen](https://iwin.sjtu.edu.cn/Web/FacultyShow/35?name=Lily), [Shih-Hau Fang](https://scholar.google.com.hk/citations?hl=zh-CN&user=ZQ8a8DEAAAAJ&view_op=list_works), IEEE Transactions on Industrial Informatics (**TII 2018**)  <strong><span class='show_paper_citations' data='l-zF-W0AAAAJ:9yKSN-GCB0IC'></span></strong> -->
+
 
