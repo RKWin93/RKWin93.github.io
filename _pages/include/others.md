@@ -10,6 +10,6 @@
 <!-- 这是注释内容，不会在渲染时显示 -->
 
 # 💻 Internships
-- *2025.03 - 2025.08*, Research Assistant‌, [Group of Networked Sensing & Control (NesC)](http://nesc.zju.edu.cn/#/), State Key Lab. of Industrial Control Technology, Zhejiang University. Collaborating professors are[**Prof. Jiming Chen**](https://person.zju.edu.cn/jmchen), [**Prof. Shibo He**](https://person.zju.edu.cn/shibohe/683161.html), and [Asst.Prof. Chaojie Gu](https://person.zju.edu.cn/gucj).
+- *2025.03 - 2025.08*, Research Assistant‌, [Group of Networked Sensing & Control (NesC)](http://nesc.zju.edu.cn/#/), State Key Lab. of Industrial Control Technology, Zhejiang University. Collaborating professors are [**Prof. Jiming Chen**](https://person.zju.edu.cn/jmchen), [**Prof. Shibo He**](https://person.zju.edu.cn/shibohe/683161.html), and [Asst.Prof. Chaojie Gu](https://person.zju.edu.cn/gucj).
 - *2019.09 - 2021.12*, Doctoral intern at IoT Lab., [Alibaba - Zhejiang University Joint Research Center for Frontier Technologies (AZFT)](https://azft.alibaba.com/lab/?id=6), China. (Focus on OPC UA)
 
