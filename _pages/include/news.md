@@ -1,6 +1,7 @@
 <!-- 这是注释内容，不会在渲染时显示 -->
 
 # 🔥 News
+- *2025.08*: &nbsp;🎉🎉🎉 I joined the College of Electrical Engineering and Automation ([Homepage]()) at Fuzhou University with [Prof. Zhezhuang Xu](https://dqxy.fzu.edu.cn/info/1010/3365.htm).
 - *2025.03*: &nbsp;🎉🎉 I have passed my PhD defense at ZJU~!
 - *2024.12*: &nbsp;🎉 A paper about [**Text2UA: Automatic OPC UA Information Modeling from Textual Data with Large Language Model**]() is accepted by IEEE/CAA Journal of Automatica Sinica (**JAS-2024**)! \| [\[code\]](https://github.com/RKWin93/Text2UA).
 - *2024.10*: &nbsp;🎉 A paper about [**End-to-end Multi-target Flexible Job Shop Scheduling with Deep Reinforcement Learning**](https://ieeexplore.ieee.org/document/10734312) is accepted by IEEE Internet of Things Journal (**IoTJ-2024**)! \| [\[code\]](https://github.com/RKWin93/E2E-MAPPO-for-MT-FJSP).
