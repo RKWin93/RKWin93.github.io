@@ -1,4 +1,5 @@
-I  received my Doctor of Engineering supervised by [**Prof. Jiming Chen**](https://person.zju.edu.cn/jmchen), [**Prof. Shibo He**](https://person.zju.edu.cn/shibohe/683161.html), and [Asst.Prof. Chaojie Gu](https://person.zju.edu.cn/gucj) at Zhejiang University, China. 
+I joined the College of Electrical Engineering and Automation ([Homepage]()) at Fuzhou University with [Prof. Zhezhuang Xu](https://dqxy.fzu.edu.cn/info/1010/3365.htm).
+I received my Doctor of Engineering supervised by [**Prof. Jiming Chen**](https://person.zju.edu.cn/jmchen), [**Prof. Shibo He**](https://person.zju.edu.cn/shibohe/683161.html), and [Asst.Prof. Chaojie Gu](https://person.zju.edu.cn/gucj) at Zhejiang University, China. 
 I received my Master of Engineering degree with the College of Electrical Engineering and Automation, Fuzhou University supervised by [Prof. Zhezhuang Xu](https://dqxy.fzu.edu.cn/info/1010/3365.htm).
 
 My research interests cover Industrial Internet of Things (e.g., OPC UA), Intelligent Production Scheduling, and Artificial Intelligence applications in the industrial manufacturing field (e.g., Reinforcement Learning and Large Language Models).
