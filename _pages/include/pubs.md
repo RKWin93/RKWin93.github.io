@@ -1,7 +1,17 @@
 <!-- 怎么直接显示出abs？有时间再搞吧 -->
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESWA 2025</div><img src='images/fig/xxxx.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JAS 2024</div><img src='images/fig/framework.png' alt="sym" width="100%"></div></div>
+[Proximity Estimation with Position Adjustment Based on Signal-Spatial Relations for Similar Industrial Devices Identification ]() \\
+Ping Huang, Zhezhuang Xu, <u>Rongkai Wang</u>, Zixiong Zhuang, Yi Guo
+
+[**Project**](xxx)  <strong><span class='show_paper_citations' data='xxxx'></span></strong>
+- Accept! Congratulations to Ping Huang!. 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JAS 2025</div><img src='images/fig/framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Text2UA: Automatic OPC UA Information Modeling from Textual Data with Large Language Model](https://www.ieee-jas.net/en/article/doi/10.1109/JAS.2025.125114) \\
@@ -19,7 +29,7 @@
 <u>Rongkai Wang</u>, Yiyang Jing, Chaojie Gu, Shibo He, Jiming Chen
 
 [**Project**](https://github.com/RKWin93/E2E-MAPPO-for-MT-FJSP)  <strong><span class='show_paper_citations' data='l-zF-W0AAAAJ:Se3iqnhoufwC'></span></strong>
-- Code is coming soon. 
+- Code is available!
 </div>
 </div>
 
