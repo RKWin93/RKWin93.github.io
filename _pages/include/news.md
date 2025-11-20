@@ -3,7 +3,7 @@
 # 🔥 News
 - *2025.11*: &nbsp;🎉🎉 A paper about [**Proximity Estimation with Position Adjustment Based on Signal-Spatial Relations for Similar Industrial Devices Identification**]() is accepted by Expert Systems With Applications (**ESWA-2025**)! Congratulations to Ping Huang!
 - *2025.10*: &nbsp; I joined the Industrial Internet of Things (IIoT) Technology and Application Committee of the Chinese Association of Automation (CAA) as a member.
-- *2025.08*: &nbsp;🎉🎉 I joined the College of Electrical Engineering and Automation ([Homepage]()) at Fuzhou University with [Prof. Zhezhuang Xu](https://dqxy.fzu.edu.cn/info/1010/3365.htm).
+- *2025.08*: &nbsp;🎉🎉 I joined the College of Electrical Engineering and Automation ([Homepage](https://dqxy.fzu.edu.cn/info/1011/5874.htm)) at Fuzhou University with [Prof. Zhezhuang Xu](https://dqxy.fzu.edu.cn/info/1010/3365.htm).
 - *2025.03*: I have passed my PhD defense at ZJU~!
 - *2024.12*: A paper about [**Text2UA: Automatic OPC UA Information Modeling from Textual Data with Large Language Model**](https://www.ieee-jas.net/en/article/doi/10.1109/JAS.2025.125114) is accepted by IEEE/CAA Journal of Automatica Sinica (**JAS-2024**)! \| [\[code\]](https://github.com/RKWin93/Text2UA).
 - *2024.10*: A paper about [**End-to-end Multi-target Flexible Job Shop Scheduling with Deep Reinforcement Learning**](https://ieeexplore.ieee.org/document/10734312) is accepted by IEEE Internet of Things Journal (**IoTJ-2024**)! \| [\[code\]](https://github.com/RKWin93/E2E-MAPPO-for-MT-FJSP).
