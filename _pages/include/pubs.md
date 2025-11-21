@@ -5,7 +5,7 @@
 <div class='paper-box-text' markdown="1">
 
 [Two-dimensional cutting strategy for defective wooden boards with parts clustering and two-stage algorithm]() \\
-Jian Chen, Xiaofen Zhang, Zhezhuang Xu, Ye Lin and <u>Rongkai Wang</u>
+Jian Chen, Xiaofen Zhang, Zhezhuang Xu*, Ye Lin and <u>Rongkai Wang</u>
 
 [**Project**](xxx)  <strong><span class='show_paper_citations' data='xxxx'></span></strong>
 - Accept! Congratulations to Xiaofen Zhang!. 
@@ -16,7 +16,7 @@ Jian Chen, Xiaofen Zhang, Zhezhuang Xu, Ye Lin and <u>Rongkai Wang</u>
 <div class='paper-box-text' markdown="1">
 
 [Proximity Estimation with Position Adjustment Based on Signal-Spatial Relations for Similar Industrial Devices Identification]() \\
-Ping Huang, Zhezhuang Xu, <u>Rongkai Wang</u>, Zixiong Zhuang, Yi Guo
+Ping Huang, Zhezhuang Xu*, <u>Rongkai Wang</u>, Zixiong Zhuang, Yi Guo
 
 [**Project**](xxx)  <strong><span class='show_paper_citations' data='xxxx'></span></strong>
 - Accept! Congratulations to Ping Huang!. 
