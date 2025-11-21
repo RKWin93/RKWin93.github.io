@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Rongkai Wang (王荣凯)"
-description              : "Fuzhou University, Group of Networked Sensing & Control (NeSC), State Key Lab. of Industrial Control Technology, College of Control Science and Engineering, Zhejiang University "
+description              : "Ph.D in State Key Lab. of Industrial Control Technology, Zhejiang University. "
 repository               : "RKWin93/RKWin93.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Rongkai Wang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Zhejiang University"
-  location         : "Hangzhou, China"
+  bio              : "Fuzhou University,"
+  location         : "Fuzhou, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?hl=zh-CN&user=l-zF-W0AAAAJ"
