@@ -3,7 +3,7 @@
 
 - [Two-dimensional cutting strategy for defective wooden boards with parts clustering and two-stage algorithm](), Jian Chen, Xiaofen Zhang, Zhezhuang Xu*, Ye Lin, **Rongkai Wang**, Wood Material Science and Engineering (**WMSE 2025**)  <strong><span class='show_paper_citations' data='xxxxxx'></span></strong>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESWA 2025</div><img src='images/fig/ESWA-25.png' alt="sym" width="60%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESWA 2025</div><img src='images/fig/ESWA-25.png' alt="sym" width="60%" class="centered-img"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Proximity Estimation with Position Adjustment Based on Signal-Spatial Relations for Similar Industrial Devices Identification]() \\
