@@ -61,6 +61,14 @@
             object-fit: cover;
         }
     }
+
+    .centered-img {
+        display: block;      
+        margin: 0 auto;      
+        width: 60%;          
+        height: auto;        
+    }
+
     
     .paper-box-text{
         max-width: 100%;
