@@ -1,12 +1,12 @@
 <!-- 怎么直接显示出abs？有时间再搞吧 -->
 # 📝 Publications 
 
-- [Two-dimensional cutting strategy for defective wooden boards with parts clustering and two-stage algorithm](), Jian Chen, Xiaofen Zhang, Zhezhuang Xu*, Ye Lin, **Rongkai Wang**, Wood Material Science and Engineering (**WMSE 2025**)  <strong><span class='show_paper_citations' data='xxxxxx'></span></strong>
+- [Two-dimensional cutting strategy for defective wooden boards with parts clustering and two-stage algorithm](https://www.tandfonline.com/doi/full/10.1080/17480272.2025.2598451), Jian Chen, Xiaofen Zhang, Zhezhuang Xu*, Ye Lin, **Rongkai Wang**, Wood Material Science and Engineering (**WMSE 2025**)  <strong><span class='show_paper_citations' data='xxxxxx'></span></strong>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESWA 2025</div><img src='images/fig/ESWA-25.png' alt="sym" width="60%" class="centered-img"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Proximity Estimation with Position Adjustment Based on Signal-Spatial Relations for Similar Industrial Devices Identification]() \\
+[Proximity Estimation with Position Adjustment Based on Signal-Spatial Relations for Similar Industrial Devices Identification](https://www.sciencedirect.com/science/article/abs/pii/S0957417425040746) \\
 Ping Huang, Zhezhuang Xu*, <u>Rongkai Wang</u>, Zixiong Zhuang, Yi Guo
 
 [**Project**](xxx)  <strong><span class='show_paper_citations' data='xxxx'></span></strong>
