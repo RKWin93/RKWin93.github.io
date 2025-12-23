@@ -1,8 +1,8 @@
 <!-- 这是注释内容，不会在渲染时显示 -->
 
 # 🔥 News
-- *2025.11*: &nbsp;🎉🎉 A paper about [**Two-dimensional cutting strategy for defective wooden boards with parts clustering and two-stage algorithm**]() is accepted by Wood Material Science & Engineering! Congratulations to Xiaofen Zhang!
-- *2025.11*: &nbsp;🎉🎉 A paper about [**Proximity Estimation with Position Adjustment Based on Signal-Spatial Relations for Similar Industrial Devices Identification**]() is accepted by Expert Systems With Applications (**ESWA-2025**)! Congratulations to Ping Huang!
+- *2025.11*: &nbsp;🎉🎉 A paper about [**Two-dimensional cutting strategy for defective wooden boards with parts clustering and two-stage algorithm**](https://www.tandfonline.com/doi/full/10.1080/17480272.2025.2598451) is accepted by Wood Material Science & Engineering! Congratulations to Xiaofen Zhang!
+- *2025.11*: &nbsp;🎉🎉 A paper about [**Proximity Estimation with Position Adjustment Based on Signal-Spatial Relations for Similar Industrial Devices Identification**](https://www.sciencedirect.com/science/article/abs/pii/S0957417425040746) is accepted by Expert Systems With Applications (**ESWA-2025**)! Congratulations to Ping Huang!
 - *2025.10*: &nbsp; I joined the Industrial Internet of Things (IIoT) Technology and Application Committee of the Chinese Association of Automation (CAA) as a member.
 - *2025.08*: &nbsp;🎉🎉 I joined the College of Electrical Engineering and Automation ([Homepage](https://dqxy.fzu.edu.cn/info/1011/5874.htm)) at Fuzhou University with [Prof. Zhezhuang Xu](https://dqxy.fzu.edu.cn/info/1010/3365.htm).
 - *2025.03*: I have passed my PhD defense at ZJU~!
