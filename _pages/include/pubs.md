@@ -33,6 +33,7 @@ Ping Huang, Zhezhuang Xu*, <u>Rongkai Wang</u>, Zixiong Zhuang, Yi Guo
 
 [**Project**](https://github.com/RKWin93/E2E-MAPPO-for-MT-FJSP)  <strong><span class='show_paper_citations' data='l-zF-W0AAAAJ:Se3iqnhoufwC'></span></strong>
 - Code is available!
+- Win the **ESI 1% Highly Cited Papers**! 
 </div>
 </div>
 
