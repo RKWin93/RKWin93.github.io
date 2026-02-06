@@ -44,8 +44,9 @@ author:
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
+  dblp             : "https://dblp.org/pid/203/9451.html"
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-6719-2703"
+  semanticscholar  : "https://www.semanticscholar.org/author/Rongkai-Wang/22260912"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
