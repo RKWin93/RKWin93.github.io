@@ -1,6 +1,7 @@
 <!-- 这是注释内容，不会在渲染时显示 -->
 
 # 🔥 News
+- *2026.04*: &nbsp;🎉🎉 I presided over an Open Project of the National Key Laboratory of Industrial Control Technology, titled [**Large Language Model-Driven Intelligent Real-time Scheduling Technology for Flexible Job Shops**]. \| [\[code\]](https://sklict.zju.edu.cn/2026/0413/c85587a3150497/page.htm).
 - *2026.01*: &nbsp;🎉🎉 The paper [**End-to-end Multi-target Flexible Job Shop Scheduling with Deep Reinforcement Learning**](https://ieeexplore.ieee.org/document/10734312) win the **ESI 1% Highly Cited Papers**! \| [\[code\]](https://github.com/RKWin93/E2E-MAPPO-for-MT-FJSP).
 - *2025.11*: A paper about [**Two-dimensional cutting strategy for defective wooden boards with parts clustering and two-stage algorithm**](https://www.tandfonline.com/doi/full/10.1080/17480272.2025.2598451) is accepted by Wood Material Science & Engineering! Congratulations to Xiaofen Zhang!
 - *2025.11*: A paper about [**Proximity Estimation with Position Adjustment Based on Signal-Spatial Relations for Similar Industrial Devices Identification**](https://www.sciencedirect.com/science/article/abs/pii/S0957417425040746) is accepted by Expert Systems With Applications (**ESWA-2025**)! Congratulations to Ping Huang!
