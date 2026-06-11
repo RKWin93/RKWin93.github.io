@@ -1,6 +1,8 @@
 <!-- 这是注释内容，不会在渲染时显示 -->
 
 # 🔥 News
+- *2026.5*: A paper about [**Road-Constrained Vehicle Trajectory Recovery from Traffic Video Using Spatio-Temporal Voxel Representation**](xxx) is accepted by ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2026**)! Congratulations to partner Taihang Dong!
+- *2026.5*: A paper about [**Multidimensional Dynamic Profiling and Subgroup Identification of Economically Disadvantaged Students Based on Improved K-Means Clustering**](xxx) is accepted by 2026 2nd International Conference on Digital Society and Intelligent Computing (ICDSIC 2026)! Congratulations to Wenjing Lin (Undergraduate)!
 - *2026.04*: &nbsp;🎉🎉 I preside over an Open Project of the National Key Laboratory of Industrial Control Technology, titled [**Large Language Model-Driven Intelligent Real-time Scheduling Technology for Flexible Job Shops**]. \| [\[Project\]](https://sklict.zju.edu.cn/2026/0413/c85587a3150497/page.htm).
 - *2026.01*: &nbsp;🎉🎉 The paper [**End-to-end Multi-target Flexible Job Shop Scheduling with Deep Reinforcement Learning**](https://ieeexplore.ieee.org/document/10734312) win the **ESI 1% Highly Cited Papers**! \| [\[code\]](https://github.com/RKWin93/E2E-MAPPO-for-MT-FJSP).
 - *2025.11*: A paper about [**Two-dimensional cutting strategy for defective wooden boards with parts clustering and two-stage algorithm**](https://www.tandfonline.com/doi/full/10.1080/17480272.2025.2598451) is accepted by Wood Material Science & Engineering! Congratulations to Xiaofen Zhang!
