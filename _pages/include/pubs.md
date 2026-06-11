@@ -1,5 +1,9 @@
 <!-- 怎么直接显示出abs？有时间再搞吧 -->
 # 📝 Publications 
+- [Road-Constrained Vehicle Trajectory Recovery from Traffic Video Using Spatio-Temporal Voxel Representation](xxxx), Taihang Dong, Jun Zhang, Ping Chen, **Rongkai Wang**, Yu Fu, Dingyu 
+Yang, ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2026**)  <strong><span class='show_paper_citations' data='xxxxxx'></span></strong>
+
+- [Multidimensional Dynamic Profiling and Subgroup Identification of Economically Disadvantaged Students Based on Improved K-Means Clustering](xxx), Wenjing Lin(Undergraduate), Zhezhuang Xu, **Rongkai Wang***, 2026 2nd International Conference on Digital Society and Intelligent Computing (ICDSIC 2026)  <strong><span class='show_paper_citations' data='xxxxxx'></span></strong>
 
 - [Two-dimensional cutting strategy for defective wooden boards with parts clustering and two-stage algorithm](https://www.tandfonline.com/doi/full/10.1080/17480272.2025.2598451), Jian Chen, Xiaofen Zhang, Zhezhuang Xu*, Ye Lin, **Rongkai Wang**, Wood Material Science and Engineering (**WMSE 2025**)  <strong><span class='show_paper_citations' data='xxxxxx'></span></strong>
 
