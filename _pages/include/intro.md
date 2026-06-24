@@ -5,10 +5,12 @@ I received my Master of Engineering degree with the College of Electrical Engine
 My research interests cover Industrial Internet of Things (e.g., OPC UA), Intelligent Production Scheduling, and Artificial Intelligence applications in the industrial manufacturing field (e.g., Reinforcement Learning and Large Language Models).
 My current research projects mainly focus on LLM/DRL-based data collection, resource optimization, and production scheduling within multi-objective, dynamic interference, and complex (i.e., large-scale and distributed collaboration) industrial discrete manufacturing environments.
 
-I have published 10+ papers <a href='https://scholar.google.com/citations?user=l-zF-W0AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FRKWin93%2FRKWin93.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top journal/conference such as TII, IoTJ, JAS, ESWA, INDIN, ICPS, etc..
+I have published 15+ papers <a href='https://scholar.google.com/citations?user=l-zF-W0AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FRKWin93%2FRKWin93.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top journal/conference such as TII, IoTJ, JAS, ESWA, INDIN, ICPS, etc..
 Welcome to reach out via email: [**rkwang.cn@gmail.com** (Permanent)](mailto:rkwang.cn@gmail.com) / [**rk_wang@fzu.edu.cn** (Academic)](mailto:rk_wang@fzu.edu.cn).
 
-<!-- https://cdn.jsdelivr.net/gh/RKWin93/RKWin93.github.io@google-scholar-stats/gs_data_shieldsio.json -->
+<!-- https://cdn.jsdelivr.net/gh/RKWin93/RKWin93.github.io@google-scholar-stats/gs_data_shieldsio.json 
+'https://scholar.google.com/citations?user=l-zF-W0AAAAJ'
+-->
 
 <!-- CDN jsDelivr来远程访问我的git的citation的分支的json文件进行显示。注意对链接URL进行编码。citation的分支是按照readme指导完成。在此repo的setting里边的secret的action选项中new repo secret新建谷歌学术ID变量，然后enable repo的action，自动在main分支中新建分支进行更新 -->
 
