@@ -24,7 +24,7 @@ Ping Huang, Zhezhuang Xu*, <u>Rongkai Wang</u>, Zixiong Zhuang, Yi Guo
 [Text2UA: Automatic OPC UA Information Modeling from Textual Data with Large Language Model](https://www.ieee-jas.net/en/article/doi/10.1109/JAS.2025.125114) \\
 <u>Rongkai Wang</u>, Shibo He, Chaojie Gu, Jiming Chen
 
-[**Project**](https://github.com/RKWin93/Text2UA)  <strong><span class='show_paper_citations' data='l-zF-W0AAAAJ:hqOjcs7Dif8C'></span></strong>
+[**Code**](https://github.com/RKWin93/Text2UA)  <strong><span class='show_paper_citations' data='l-zF-W0AAAAJ:hqOjcs7Dif8C'></span></strong>
 - Accept! Code is available!. 
 </div>
 </div>
@@ -35,7 +35,7 @@ Ping Huang, Zhezhuang Xu*, <u>Rongkai Wang</u>, Zixiong Zhuang, Yi Guo
  [End-to-end Multi-target Flexible Job Shop Scheduling with Deep Reinforcement Learning](https://ieeexplore.ieee.org/document/10734312) \\
 <u>Rongkai Wang</u>, Yiyang Jing, Chaojie Gu, Shibo He, Jiming Chen
 
-[**Project**](https://github.com/RKWin93/E2E-MAPPO-for-MT-FJSP)  <strong><span class='show_paper_citations' data='l-zF-W0AAAAJ:Se3iqnhoufwC'></span></strong>
+[**Code**](https://github.com/RKWin93/E2E-MAPPO-for-MT-FJSP)  <strong><span class='show_paper_citations' data='l-zF-W0AAAAJ:Se3iqnhoufwC'></span></strong>
 - Code is available!
 - Win the **ESI 1% Highly Cited Papers**! 
 </div>
@@ -70,7 +70,7 @@ Zhezhuang Xu(Tutor), <u>Rongkai Wang</u>, Xi Yue, Ting Liu, [Cailian Chen](https
 <u>Rongkai Wang</u>, Shibo He, Yang Liu, Chengwei Zhou, [Zhiguo Shi](https://person.zju.edu.cn/shizg/570480.html), Jiming Chen. 
 
 [**Project**]() <strong><span class='show_paper_citations' data='l-zF-W0AAAAJ:IjCSPb-OGe4C'></span></strong>
-- Win the **Best Paper Award**. 
+- Win the **Best Paper Award**. \| [\[News\]](https://www.icites.net/2021.html)
 </div>
 </div>
 
